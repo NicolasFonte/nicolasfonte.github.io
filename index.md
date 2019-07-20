@@ -13,5 +13,5 @@ Currently working at SAS Plataforma de Educação
 - IBM (Brazil), Senior Java Developer
 - CPQI - Developer and Consultant
 
-Contact
+### Contact
 nicolasfontenele@gmail.com
