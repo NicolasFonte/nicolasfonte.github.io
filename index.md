@@ -1,5 +1,6 @@
 ### About me
 Software Engineer with 8 years of experience in IT sector.
+
 Currently working at SAS Plataforma de Educação
 
 ### Main skills
