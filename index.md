@@ -1,23 +1,17 @@
-About me
-Todo
+### About me
+Software Engineer with 8 years of experience in IT sector.
+Currently working at SAS Plataforma de Educação
 
-Relevant Projects
-See below
+### Main skills
+- Backend, Microservices, REST, Unit testing
+- Java 8, Node.js
+- AWS, Heroku
+- Scrum / Agile
 
-Project 1
-Project 2
-Todo
+### Previous Companies
+- Crossover (EUA), Java Architect, Remote and Self-Employed
+- IBM (Brazil), Senior Java Developer
+- CPQI - Developer and Consultant
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-https://guides.github.com/features/mastering-markdown/
 Contact
 nicolasfontenele@gmail.com
