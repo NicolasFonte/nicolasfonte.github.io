@@ -1,5 +1,5 @@
 ### About me
-Software Engineer with 8 years of experience in IT sector.
+Software Engineer with 10+ years of experience in IT sector.
 
 Currently working at SAS Plataforma de Educação
 
