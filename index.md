@@ -1,5 +1,5 @@
 ### About me
-Software Engineer with 12+ years of experience in IT sector.
+Software Engineer with 12+ years of experience in software development
 
 Currently working @Arcotech as Head of Software Engineering
 
