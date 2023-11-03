@@ -11,11 +11,12 @@ Currently working @Arcotech as Head of Software Engineering
 ### Previous Companies
 - Crossover (EUA), Java Architect, Remote and Self-Employed
 - IBM (Brazil), Senior Java Developer, Remote
-- CPQI(EUA & Latam) - Developer and Consultant
+- CPQI(EUA & Latam) - Developer and On Site Consultant
 
-### Contact
-nicolasfontenele@gmail.com
+### Contact and Social
 https://www.linkedin.com/in/nicolasfontenele/
 
+
 ## Posts and general content
+https://medium.com/@nicolasfontenele/the-misleading-use-of-the-technical-debt-expression-c3c14fea3e9b #[eng-us] #[leadership]
 
