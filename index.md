@@ -14,5 +14,5 @@ Currently working @Arcotech as Head of Software Engineering
 - CPQI(EUA & Latam) - Developer and On Site Consultant
 
 ### Contact and Social
-https://www.linkedin.com/in/nicolasfontenele/
-https://medium.com/@nicolasfontenele/
+- https://www.linkedin.com/in/nicolasfontenele/
+- https://medium.com/@nicolasfontenele/
