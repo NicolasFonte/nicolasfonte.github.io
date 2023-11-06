@@ -16,3 +16,4 @@ Currently working @Arcotech as Head of Software Engineering
 ### Contact and Social
 - https://www.linkedin.com/in/nicolasfontenele/
 - https://medium.com/@nicolasfontenele/
+- https://github.com/nicolasfontenele
