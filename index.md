@@ -15,8 +15,4 @@ Currently working @Arcotech as Head of Software Engineering
 
 ### Contact and Social
 https://www.linkedin.com/in/nicolasfontenele/
-
-
-## Posts and general content
-https://medium.com/@nicolasfontenele/the-misleading-use-of-the-technical-debt-expression-c3c14fea3e9b #[eng-us] #[leadership]
-
+https://medium.com/@nicolasfontenele/
